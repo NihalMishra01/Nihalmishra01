@@ -1,19 +1,19 @@
 <!-- 🚀 Nihal Mishra | GitHub Profile -->
 
-<!-- 👨‍💻 Custom Coding Banner -->
+<!-- 👨‍💻 Working Custom Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3f09pVe.gif" alt="Nihal Mishra Coding Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nihalmishraofficial/nihalmishraofficial/main/assets/banner.gif" alt="Nihal Mishra Coding Banner" width="100%" />
 </p>
 
-<!-- ✨ Welcome Title & Typing Effect -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
 <h3 align="center">Data Science Explorer | B.Tech CSE (AI & DS) | Machine Learning & BI Enthusiast</h3>
 
+<!-- ✨ Typing Transition -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=450&lines=Data+Scientist+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+TensorFlow+%7C+ML;Cloud+%7C+Analytics+%7C+AI+Explorer" />
 </p>
 
-<!-- 🌟 Welcome Animation -->
+<!-- 👋 Welcome Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 </p>
