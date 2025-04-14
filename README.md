@@ -2,7 +2,7 @@
 
 <!-- 👨‍💻 Professional Banner (Coding Animation GIF) -->
 <p align="center">
-  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="80%" />
+  <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
@@ -23,7 +23,7 @@
 ### 💡 About Me
 <div style="display: flex; align-items: center;">
   <div style="flex-shrink: 0; padding-right: 20px;">
-    <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="180" alt="About Me Animation" />
+    <img src="https://github.com/nihalmishra01/nihalmishra01/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="180" alt="About Me Animation" />
   </div>
   <div style="flex: 1;">
     <strong>🎓 B.Tech CSE (AI & DS) | 4th Semester</strong><br>
@@ -56,16 +56,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalmishraofficial&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalmishraofficial&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalmishra01&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalmishra01&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmishraofficial&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmishra01&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nihalmishraofficial&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nihalmishra01&theme=tokyo-night" />
 </p>
 
 ---
@@ -84,12 +84,12 @@
 
 ### 📜 Certifications
 
-- 🧠 Generative AI for Data Science – *Microsoft*
-- ☁️ Google Cloud Arcade – *Cloud Skills Boost*
-- 🛰️ AI/ML for Geo Data Analysis – *ISRO*
-- 🧠 Build Your Own Generative AI Model – *NXT Wave*
-- 📊 Winter School ML – *AKS University*
-- 🔌 IoT Exhibition – *AKS University*
+- 🧠 Generative AI for Data Science – *Microsoft* [Link](https://drive.google.com/file/d/1kpD2ReeFFpWiC8WyLEx3l3uMx1wLSkb_/view?usp=sharing)
+- ☁️ Google Cloud Arcade – *Cloud Skills Boost* [Link](https://www.cloudskillsboost.google/public_profiles/c5854a36-e163-4840-aabc-054ece6dc70c)
+- 🛰️ AI/ML for Geo Data Analysis – *ISRO* [Link](https://drive.google.com/file/d/1uaOXX1Xz7q-W0L5A6KghcBOoxuB2JpgY/view?usp=sharing)
+- 🧠 Build Your Own Generative AI Model – *NXT Wave* [Link](https://drive.google.com/file/d/1o4qu5-dIrWnvYKnJPRYgIWjsYDb6HrQw/view?usp=sharing)
+- 📊 Winter School ML – *AKS University* [Link](https://drive.google.com/file/d/1gNo3GHtLddjt5fQd8flDhbdVr7yZlSt5/view?usp=sharing)
+- 🔌 IoT Exhibition – *AKS University* [Link](https://drive.google.com/file/d/1H3sBkpCr4W9U-wf-W-kHraF5Kdm9xuEO/view?usp=sharing)
 
 ---
 
@@ -102,14 +102,13 @@
   <a href="mailto:nihalmishraaofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/nihalmishraofficial" target="_blank">
+  <a href="https://github.com/nihalmishra01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihalmishraofficial&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nihalmishra01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
