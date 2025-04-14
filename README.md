@@ -1,8 +1,8 @@
 <!-- 🚀 Nihal Mishra | GitHub Profile -->
 
-<!-- 👨‍💻 Professional Banner (Small Coding Boy Animated GIF) -->
+<!-- 👨‍💻 Professional Banner (Coding Animation GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Jq7ZTcB7J7aFwW9t4t/giphy.gif" alt="Coding Boy Animated GIF" width="100%" />
+  <img src="https://media.giphy.com/media/4NAtg5xF1d4O9mF3YY/giphy.gif" alt="Coding Animation" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
