@@ -1,10 +1,8 @@
 <!-- 🚀 Nihal Mishra | GitHub Profile -->
 
-<!-- 👨‍💻 Professional Banner -->
+<!-- 👨‍💻 Professional Banner (Coding GIF) -->
 <p align="center">
-  <div style="width: 100%; height: 200px; background: linear-gradient(to right, #4e73df, #1cc88a); display: flex; justify-content: center; align-items: center;">
-    <h1 style="color: white; font-family: 'Arial', sans-serif; font-size: 3rem;">Nihal Mishra</h1>
-  </div>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding GIF Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
