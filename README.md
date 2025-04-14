@@ -2,7 +2,9 @@
 
 <!-- 👨‍💻 Professional Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nihalmishraofficial/nihalmishraofficial/main/assets/banner.png" alt="Nihal Mishra Coding Banner" width="100%" />
+  <div style="width: 100%; height: 200px; background: linear-gradient(to right, #4e73df, #1cc88a); display: flex; justify-content: center; align-items: center;">
+    <h1 style="color: white; font-family: 'Arial', sans-serif; font-size: 3rem;">Nihal Mishra</h1>
+  </div>
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
