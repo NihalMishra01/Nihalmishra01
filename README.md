@@ -22,14 +22,14 @@
 
 ### 💡 About Me
 <p align="right">
-  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="150" alt="About Me Animation" />
+  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="180" alt="About Me Animation" />
 </p>
-<br/>
-🎓 B.Tech CSE (AI & DS) | 4th Semester  
-🔍 Passionate about ML, AI, BI, and real-world data applications  
-📊 Skilled in Power BI, Python, SQL, and Data Analytics  
-☁️ Exploring Generative AI, Cloud, and Automation  
-📚 Actively building, learning, and sharing on LinkedIn
+
+🎓 **B.Tech CSE (AI & DS) | 4th Semester**  
+🔍 **Passionate about ML, AI, BI, and real-world data applications**  
+📊 **Skilled in Power BI, Python, SQL, and Data Analytics**  
+☁️ **Exploring Generative AI, Cloud, and Automation**  
+📚 **Actively building, learning, and sharing on LinkedIn**
 
 ---
 
