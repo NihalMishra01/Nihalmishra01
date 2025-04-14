@@ -2,7 +2,7 @@
 
 <!-- 👨‍💻 Professional Banner (Coding Animation GIF) -->
 <p align="center">
-  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="100%" />
+  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/giphy.gif?raw=true" alt="Coding Animation" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
@@ -22,8 +22,9 @@
 
 ### 💡 About Me
 <p align="right">
-  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="150" align="right" alt="About Me Animation" />
+  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="150" alt="About Me Animation" />
 </p>
+<br/>
 🎓 B.Tech CSE (AI & DS) | 4th Semester  
 🔍 Passionate about ML, AI, BI, and real-world data applications  
 📊 Skilled in Power BI, Python, SQL, and Data Analytics  
