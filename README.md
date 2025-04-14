@@ -2,7 +2,7 @@
 
 <!-- 👨‍💻 Professional Banner (Small Coding Boy Animated GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE3kYP38bBPHenq/giphy.gif" alt="Coding Boy Animated GIF" width="100%" />
+  <img src="https://media.giphy.com/media/Jq7ZTcB7J7aFwW9t4t/giphy.gif" alt="Coding Boy Animated GIF" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
