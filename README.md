@@ -31,12 +31,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihalmishra-ai&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalmishra-ai&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalmishraofficial&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalmishraofficial&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmishra-ai&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmishraofficial&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nihalmishra-ai/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:nihalmishra.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/nihalmishra-ai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/nihalmishraofficial"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
