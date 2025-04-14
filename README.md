@@ -21,8 +21,8 @@
 ---
 
 ### 💡 About Me
-<p align="center">
-  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="100%" alt="About Me Animation" />
+<p align="right">
+  <img src="https://github.com/Nihalmishraofficial/Nihalmishraofficial/blob/main/06f21a161921919.63cd7887d0a70.gif?raw=true" width="150" align="right" alt="About Me Animation" />
 </p>
 🎓 B.Tech CSE (AI & DS) | 4th Semester  
 🔍 Passionate about ML, AI, BI, and real-world data applications  
@@ -32,10 +32,53 @@
 
 ---
 
-### 📜 Certifications
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/certificates-image.gif" width="100%" alt="Certifications" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3B4D98?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihalmishraofficial&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalmishraofficial&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmishraofficial&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nihalmishraofficial&theme=tokyo-night" />
+</p>
+
+---
+
+### 📦 Projects
+
+| 💼 Project | 💡 Description | 🛠 Tech |
+|-----------|----------------|--------|
+| 🎬 **Movie Recommendation System** | Personalized content-based suggestions | Python, NLP, Streamlit |
+| 💡 **IoT Smart Street Light** | Automated energy-efficient street lighting | NodeMCU, Embedded C |
+| 📈 **Amazon Sales Dashboard** | BI dashboard with KPIs & slicers | Power BI, DAX |
+| 🛒 **Blinkit Analytics Dashboard** | Visuals for customer trends & top products | Power BI |
+| 🤖 **AksInfoBot Chatbot** | Desktop chatbot for college info | Python, Tkinter, NLP, Pickle |
+
+---
+
+### 📜 Certifications
 
 - 🧠 Generative AI for Data Science – *Microsoft*
 - ☁️ Google Cloud Arcade – *Cloud Skills Boost*
