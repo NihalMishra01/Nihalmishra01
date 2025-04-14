@@ -1,27 +1,32 @@
-<!-- 🚀 Nihal Mishra | Pro GitHub Profile -->
+<!-- 🚀 Nihal Mishra | GitHub Profile -->
 
-<!-- 👨‍💻 Custom Banner -->
+<!-- 👨‍💻 Custom Coding Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/0kW3NBZ.gif" alt="Nihal Coding Banner" width="100%" />
+  <img src="https://i.imgur.com/3f09pVe.gif" alt="Nihal Mishra Coding Banner" width="100%" />
 </p>
 
+<!-- ✨ Welcome Title & Typing Effect -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Nihal Mishra</span></h1>
-<h3 align="center">B.Tech CSE (AI & DS) | Data Science Enthusiast | ML & Power BI Explorer</h3>
+<h3 align="center">Data Science Explorer | B.Tech CSE (AI & DS) | Machine Learning & BI Enthusiast</h3>
 
-<!-- ✨ Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=450&lines=Data+Scientist+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+TensorFlow+%7C+ML;Cloud+%7C+Analytics+%7C+AI+Explorer" />
+</p>
+
+<!-- 🌟 Welcome Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" />
 </p>
 
 ---
 
 ### 💡 About Me
 
-🎓 4th Semester B.Tech CSE (AI & DS)  
-📊 Power BI Developer | ML Model Builder | SQL Analyst  
-🛠️ Python, TensorFlow, Scikit-learn, Oracle, MySQL  
-🧠 Generative AI Explorer – Google Cloud & Microsoft Certified  
-🤝 Actively building & sharing on LinkedIn
+🎓 B.Tech CSE (AI & DS) | 4th Semester  
+🔍 Passionate about ML, AI, BI, and real-world data applications  
+📊 Skilled in Power BI, Python, SQL, and Data Analytics  
+☁️ Exploring Generative AI, Cloud, and Automation  
+📚 Actively building, learning, and sharing on LinkedIn
 
 ---
 
@@ -76,26 +81,17 @@
 - 🧠 [Generative AI for Data Science](https://learn.microsoft.com/en-us/training/paths/generative-ai-data-science/) – *Microsoft*
 - ☁️ Google Cloud Arcade – *Cloud Skills Boost*
 - 🛰️ AI/ML for Geo Data Analysis – *ISRO*
-- 🧠 Generative AI Bootcamp – *NXT Wave*
+- 🧠 Build Your Own Generative AI Model – *NXT Wave*
 - 📊 Winter School ML – *AKS University*
 - 🔌 IoT Exhibition – *AKS University*
-
----
-
-### ✨ Developer Vibes (GIFs)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-</p>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nihalmishra-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:nihalmishra.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nihalmishraaofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nihalmishraaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/nihalmishraofficial"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
