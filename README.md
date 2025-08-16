@@ -1,9 +1,8 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=NIHAL%20MISHRA&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=50&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descSize=16&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=NIHAL%20MISHRA&fontSize=48&fontColor=00FF99&animation=fadeIn&fontAlignY=50&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI&descSize=16&descAlign=50&descAlignY=75" />
   
-
-  
+ 
   <!-- Professional Stats Grid -->
   <table>
     <tr>
@@ -14,14 +13,14 @@
         <img src="https://img.shields.io/github/followers/nihalmishra01?label=FOLLOWERS&style=for-the-badge&color=orange&logo=github" height="30" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-brightgreen?style=for-the-badge&logo=databricks" height="30" />
+        <img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-blue?style=for-the-badge&logo=databricks" height="30" />
       </td>
     </tr>
   </table>
   
   <!-- Professional Status Indicators -->
   <div style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/🎯%20STATUS-Open%20to%20Opportunities-success?style=flat-square&labelColor=2C3E50" />
+    <img src="https://img.shields.io/badge/🎯%20STATUS-Open%20to%20Opportunities-purple?style=flat-square&labelColor=2C3E50" />
     <img src="https://img.shields.io/badge/💼%20EXPERIENCE-AI%20%7C%20ML%20%7C%20Analytics-blue?style=flat-square&labelColor=2C3E50" />
     <img src="https://img.shields.io/badge/🌟%20PASSION-Innovation%20through%20Data-purple?style=flat-square&labelColor=2C3E50" />
   </div>
@@ -127,7 +126,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-276DC3?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rag-276DC3?style=for-the-badge&logo=Rag&logoColor=white"/>
 </p>
 
 ### **Machine Learning & AI**
@@ -177,12 +177,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nihalmishra01&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalmishra01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihalmishra01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nihalmishra01&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15&column=8" />
 </div>
 
 ---
@@ -193,11 +190,11 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Tech Stack | 📊 Status |
 |:-----------|:---------------|:---------------|:----------|
-| **🎬 Movie Recommendation System** | AI-powered personalized content recommendation engine with collaborative filtering | `Python` `NLP` `Streamlit` `Scikit-Learn` | ✅ Live |
-| **💡 IoT Smart Street Light** | Automated energy-efficient lighting system with sensor integration | `NodeMCU` `Embedded C` `IoT` `Arduino` | ✅ Deployed |
-| **📈 Amazon Sales Dashboard** | Interactive BI dashboard with advanced KPIs and real-time analytics | `Power BI` `DAX` `SQL` `Data Modeling` | ✅ Active |
-| **🛒 Blinkit Analytics Dashboard** | Customer behavior analysis and product performance insights | `Power BI` `Python` `Data Visualization` | ✅ Complete |
-| **🤖 AksInfoBot Chatbot** | Intelligent desktop assistant for institutional information queries | `Python` `Tkinter` `NLP` `Machine Learning` | 🔄 Updating |
+| **🎬 Movie Recommendation System** | AI-powered personalized content recommendation engine with collaborative filtering | `Python` `NLP` `Streamlit` `Scikit-Learn` | Completed |
+| **💡 IoT Smart Street Light** | Automated energy-efficient lighting system with sensor integration | `NodeMCU` `Embedded C` `IoT` `Arduino` | Completed |
+| **📈 Amazon Sales Dashboard** | Interactive BI dashboard with advanced KPIs and real-time analytics | `Power BI` `DAX` `SQL` `Data Modeling` | Completed |
+| **🛒 Blinkit Analytics Dashboard** | Customer behavior analysis and product performance insights | `Power BI` `Python` `Data Visualization` | Complete |
+| **🤖 AksInfoBot Chatbot** | Intelligent desktop assistant for institutional information queries | `Python` `Tkinter` `NLP` `Machine Learning` | Completed |
 
 </div>
 
@@ -260,6 +257,14 @@
 
 <div align="center">
   
+### 💼 Professional Status
+
+<p>
+  <img src="https://img.shields.io/badge/🎯_Open_to-Data_Science_Roles-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Available_for-ML_Projects-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Seeking-Collaboration-orange?style=for-the-badge" />
+</p> 
+
 ### 📬 Get In Touch
 
 <p>
@@ -277,43 +282,12 @@
   </a>
 </p>
 
-### 💼 Professional Status
 
-<p>
-  <img src="https://img.shields.io/badge/🎯_Open_to-Data_Science_Roles-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Available_for-ML_Projects-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Seeking-Collaboration-orange?style=for-the-badge" />
-</p>
 
 </div>
 
----
-
-<div align="center">
-  
-### 🙏 Thank You for Visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" />
-
-**💡 "Transforming data into insights, one algorithm at a time"**
-
-<p>
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_Markdown-ff69b4?style=for-the-badge&logo=markdown&logoColor=white" />
-</p>
-
-**✨ If you find my work valuable, please consider:**
-- ⭐ **Starring** my repositories
-- 🤝 **Connecting** on LinkedIn  
-- 💬 **Reaching out** for collaborations
-
-<br>
-
-*Let's build the future with data and AI! 🚀*
 
 </div>
-
-<!-- Optional: Add a subtle separator line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <sub>© 2025 Nihal Mishra. All rights reserved.</sub>
