@@ -27,7 +27,14 @@
 </div>
 
 
-<br>
+<div align="center">
+  <a href="https://drive.google.com/file/d/1obEioOzM7eqkWRkpAZKZ95Csfp2MzuEv/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Download%20Resume-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" height="120"/>
+  </a>
+</div>
+
+
+
 
 <table align="center">
   <tr>
@@ -266,32 +273,33 @@
 </p> 
 
 ### 📬 Get In Touch
-
-<p>
-  <a href="https://www.linkedin.com/in/nihalmishraofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nihalmishraaofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/nihalmishra01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/nihalmishra01" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
-
-
+<div align="center">
+<table>
+  <tr>
+    <td align="center" style="background:#E6F7FF; border-radius:12px; padding:20px; width:180px; height:120px;">
+      <img src="https://img.icons8.com/fluency/64/linkedin.png" width="40"/>
+      <h3>LinkedIn</h3>
+      <a href="https://www.linkedin.com/in/nihalmishra01/" target="_blank">Connect</a>
+    </td>
+    <td align="center" style="background:#FFF0F6; border-radius:12px; padding:20px; width:180px; height:120px;">
+      <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="40"/>
+      <h3>Email</h3>
+      <a href="mailto:nihalmishraaofficial@gmail.com">Contact</a>
+    </td>
+    <td align="center" style="background:#FFFBE6; border-radius:12px; padding:20px; width:180px; height:120px;">
+      <img src="https://img.icons8.com/fluency/48/twitterx--v1.png" width="40"/>
+      <h3>X</h3>
+      <a href="https://x.com/nihal0103" target="_blank">Profile</a>
+    </td>
+    <td align="center" style="background:#F9F0FF; border-radius:12px; padding:20px; width:180px; height:120px;">
+      <img src="https://img.icons8.com/fluency/64/github.png" width="40"/>
+      <h3>GitHub</h3>
+      <a href="https://github.com/nihalmishra01" target="_blank">Profile</a>
+    </td>
+  </tr>
+</table>
 </div>
-
-
-</div>
-
+---
 <div align="center">
   <sub>© 2025 Nihal Mishra. All rights reserved.</sub>
 </div>
-
-
-
